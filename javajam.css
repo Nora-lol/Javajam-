@@ -15,7 +15,7 @@ body {
           width: 80%;
       min-width: 900px;
       max-width: 1280px;
-      box-shadow: 3px 3px 3px #676767:
+      box-shadow: 3px 3px 3px #676767;
             padding: 0;
 }
 header { 
@@ -28,7 +28,7 @@ header {
       padding-bottom: 5px;
 }
 header a { text-decoration: none; }
-header a: link      { color: #231814;}
+header a: link      { color: #231814; }
 header a: visited { color: #231814; }
 header a:hover      { color: #FEF6C2; }
 h1 { font-size: 3em; }
